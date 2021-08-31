@@ -114,6 +114,7 @@ function Portfolio() {
 		},
 		
 	];
+	
      //console.log(projects)
 	return (
 		<section>
