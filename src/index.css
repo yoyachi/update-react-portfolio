@@ -355,12 +355,12 @@ textarea {
 }
 
 .card-title {
-	font-size: 1.5rem;
+	font-size: 2rem;
 	color: var(--quaternary);
 }
 
 .card-subtitle {
-	font-size: 1rem;
+	font-size: 1.2rem;
 	color: var(--tertiary);
 }
 
@@ -377,8 +377,8 @@ textarea {
 }
 
 .card-image {
-	max-width: 300px;
-	max-height: 150px;
+	max-width: 400px;
+	max-height: 200px;
 }
 
 .card-link {
