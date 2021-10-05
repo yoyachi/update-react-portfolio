@@ -104,7 +104,7 @@ function Portfolio() {
 			technologies: [
 				'JavaScript',
 				'React',
-				'IdexedDB',
+				'IndexedDB',
 				'Node.js',
 				'Web-vitals',
 				'Jest',
