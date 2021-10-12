@@ -5,7 +5,7 @@ main {
 }
 
 :root {
-	--primary: #318796;
+	--primary: #86d0dd;
 	--secondary: #1d3557;
 	--tertiary: #f0f2a6;
 	--quaternary: #31312f;
@@ -35,7 +35,7 @@ body {
 	line-height: 1.5;
 	font-size: 18px;
 	letter-spacing: .1em;
-	background: #318796;;
+	background: #86d0dd;
 	color: var(--light);
 	font-family: 'Open Sans', sans-serif;
 }
