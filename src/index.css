@@ -100,13 +100,17 @@ a:hover {
 header {
 	background: var(--secondary);
 	display: flex;
-	justify-content: space-between;
+	justify-content :space-evenly;
 	padding: 1rem;
+	
 	text-align: center;
+	flex-wrap: wrap;
+	margin: 0 auto;
 }
 
 header a {
 	color: var(--light);
+	
 }
 
 button {
@@ -168,6 +172,7 @@ ul li {
 }
 
 nav a:hover {
+	background-color: rgba(167, 111, 111, 0.8) ;
 	text-decoration: none;
 }
 
@@ -293,14 +298,15 @@ textarea {
 .footer {
 	display: flex;
 	flex-wrap: wrap;
-	justify-content: space-evenly;
+	justify-content:space-evenly ;
   background-color: #1d3557;
   padding-top: 10%;
+  text-align: center;
 }
 .footer a {
   font-size: 50px;
-  padding: 20px;
-  color:e7ecef;
+  padding: 1rem;
+  color: e7ecef;
 }
 .photo {
 	width: auto;
@@ -367,13 +373,15 @@ textarea {
 .card-text {
 	font-size: 0.75rem;
 	height: 8rem;
-	color: var(--quinary);
+	color: rgb(116, 111, 111);
+
 }
 
 .card-techs {
 	font-size: 0.75rem;
 	height: 4rem;
-	color: var(--quinary);
+	color: rgb(116, 111, 111);
+
 }
 
 .card-image {
@@ -391,9 +399,9 @@ textarea {
 }
 
 /* Viewports Styling start*/
-@media screen and (max-width: 980px) {}
+@media only screen and (max-width: 980px) {}
 
-@media screen and (max-width: 817px) {
+@media only screen and (max-width: 817px) {
 	header div {
 		position: relative;
 		width: 110%;
@@ -453,7 +461,7 @@ textarea {
 	}
 }
 
-@media screen and (max-width: 768px) {}
+@media only screen and (max-width: 768px) {}
 
-@media screen and (max-width: 575px) {}
+@media only screen and (max-width: 575px) {}
 
