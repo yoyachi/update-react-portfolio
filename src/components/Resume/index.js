@@ -1,6 +1,5 @@
 import React from "react";
 
-
 function Resume() {
 	return (
 		<section className= "resume-section">
@@ -8,7 +7,7 @@ function Resume() {
 				<h1 className="page-header">My Resume</h1>
 			</div>
 			<div className="bottom-spacing">
-				<a href={"public/files/JHresume(1).pdf"} download>
+				<a href={"public/files/resume.docx"} download>
 					<h4>Download my Resume</h4>
 				</a>
 			</div>
