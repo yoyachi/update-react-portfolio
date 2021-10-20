@@ -38,7 +38,7 @@ body {
 	line-height: 1.5;
 	font-size: 18px;
 	letter-spacing: .1em;
-	background: #d5e0e2;
+	background: #ffffff;
 	color: var(--light);
 	font-family: 'Open Sans', sans-serif;
 }
@@ -62,7 +62,10 @@ h6 {
 
 h1 {
 	font-size: 2.25rem;
+	color: rgb(161, 81, 201);
 }
+
+
 
 h2 {
 	font-size: 2rem;
@@ -303,9 +306,19 @@ textarea {
 }
 
 .navActive {
-	color: var(--primary);
+	color: rgb(194, 247, 221);
 }
 
+.text {
+	
+	color: rgb(116, 111, 111);
+	font-family: roboto;
+	
+}
+
+.center {
+
+}
 .footer {
 	display: flex;
 	flex-wrap: wrap;
@@ -415,6 +428,7 @@ textarea {
 .padding {
 	padding:  50px 10px ;
 }
+
 
 /* Viewports Styling start*/
 @media only screen and (max-width: 980px) {}
