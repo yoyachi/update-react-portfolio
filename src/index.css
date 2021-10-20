@@ -39,7 +39,7 @@ body {
 	font-size: 18px;
 	letter-spacing: .1em;
 	background: #ffffff;
-	color: var(--light);
+	color:rgb(90, 99, 107);
 	font-family: 'Open Sans', sans-serif;
 }
 
@@ -77,11 +77,13 @@ h3 {
 
 h4 {
 	font-size: 1.5rem;
+	color: steelblue;
   
 }
 
 h5 {
 	font-size: 1.25rem;
+	color:rgb(79, 204, 79);
 }
 
 h6 {
@@ -106,6 +108,7 @@ a {
 
 a:hover {
 	text-decoration: underline;
+	color: grey;
 }
 
 header {
@@ -306,7 +309,7 @@ textarea {
 }
 
 .navActive {
-	color: rgb(194, 247, 221);
+	color: rgb(179, 241, 211);
 }
 
 .text {
@@ -378,6 +381,7 @@ textarea {
 
 .bottom-spacing {
 	margin-bottom: var(--spacing-five);
+	color: slategray;
 }
 
 .card {
@@ -429,6 +433,9 @@ textarea {
 	padding:  50px 10px ;
 }
 
+# download {
+
+}
 
 /* Viewports Styling start*/
 @media only screen and (max-width: 980px) {}
