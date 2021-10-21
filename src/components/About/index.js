@@ -5,10 +5,12 @@ function About() {
 
   return (
     <section className="my-5" >
-      <div className="card shadow border -0">
+      <div className="card border -0">
         
       
-      <h1 id="about">Who am I?</h1>
+      <h1 id="about">Julissa Hash</h1>
+
+
       <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
       </div>
       <div className="text">
