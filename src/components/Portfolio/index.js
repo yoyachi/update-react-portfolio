@@ -9,7 +9,7 @@ function Portfolio() {
 	//const [projects,setProjects] =useState([
 		const projects =[
 		{
-			name: 'App Now Playing',
+			name: 'Now Playing',
 			description:
 				'Now Playing is a music-focused social media app for sharing and discovering new music. Users can create posts, like posts and add comments. The home feed can be filtered based on different criteria including genre and decade. The is also a search page to find specific users or posts.',
 			image: 'now-playing.png',            
