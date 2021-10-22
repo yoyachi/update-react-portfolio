@@ -5,11 +5,13 @@ function About() {
 
   return (
     <section className="my-5" >
-      <div className="card border -0">
+      <div className="card shadow border-0">
         
-      
+      <div>
       <h1 id="about">Julissa Hash</h1>
-
+      <p>Software Developer</p>
+      <p>Austin, Texas</p>
+      </div>
 
       <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
       </div>

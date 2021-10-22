@@ -83,7 +83,7 @@ h4 {
 
 h5 {
 	font-size: 1.25rem;
-	color:rgb(79, 204, 79);
+	color:rgb(31, 37, 31);
 }
 
 h6 {
@@ -314,6 +314,7 @@ textarea {
 	
 	color: rgb(116, 111, 111);
 	font-family: roboto;
+	padding-top: 10%;
 	
 }
 
