@@ -62,7 +62,7 @@ h6 {
 
 h1 {
 	font-size: 2.25rem;
-	color: rgb(161, 81, 201);
+	color: rgb(28, 27, 31);
 }
 
 
@@ -83,7 +83,7 @@ h4 {
 
 h5 {
 	font-size: 1.25rem;
-	color:rgb(79, 204, 79);
+	color:rgb(31, 37, 31);
 }
 
 h6 {
@@ -128,11 +128,11 @@ header a {
 button {
 	background: var(--quaternary);
 	border: 0;
-	border-radius: .5rem;
+
 	color: #fff;
 	cursor: pointer;
 	font-size: 16px;
-	font-weight: 600;
+	font-weight: 200;
 	padding: 10px 15px;
 	font-size: 1rem;
 
@@ -242,7 +242,7 @@ textarea {
 	margin-top: var(--spacing-two);
 	margin-bottom: var(--spacing-two);
   border-radius: 50%;
-  border: 1px solid #8b8c89;
+  border: 2px solid white;
   
   
 }
@@ -307,13 +307,14 @@ textarea {
 }
 
 .navActive {
-	color: rgb(179, 241, 211);
+	color: rgb(22, 23, 27);
 }
 
 .text {
 	
 	color: rgb(116, 111, 111);
 	font-family: roboto;
+	padding-top: 10%;
 	
 }
 
