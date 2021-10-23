@@ -419,7 +419,7 @@ textarea {
 	max-width: 350px;
 	max-height: 200px;
 	justify-content: center;
-	box-shadow: dimgray 2px;
+	box-shadow: dimgray ;
 }
 
 .card-link {
