@@ -20,8 +20,8 @@ function Resume() {
 					<li>jQuery</li>
 					<li>Bootstrap</li>
 					<li>React</li>
-					<li>version control/Git</li> 
-					<li>responsive design</li>
+					<li>Version Control/Git</li> 
+					<li>Responsive Design</li>
 				</ol>
 				<br></br>
 				<h5>Back-End Proficiencies</h5>
