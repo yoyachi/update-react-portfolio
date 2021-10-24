@@ -82,8 +82,22 @@ h4 {
 }
 
 h5 {
+	font-family: Interstate, Arial, Helvetica, sans-serif;
 	font-size: 1.25rem;
-	color:rgb(31, 37, 31);
+	font-weight: 400;
+	position:relative;
+	padding-top: 0.5rem;
+	padding-right: 0.75rem;
+	padding-bottom: 0.5rem;
+	padding-left: 00.75rem;
+	line-height: 1;
+	letter-spacing: 0.1rem;
+	color:rgb(75, 77, 75);
+	text-transform: uppercase;
+	background-color: rgb(223, 197, 159);
+	display: inline-block;
+	margin-bottom: 0;
+
 }
 
 h6 {
@@ -98,7 +112,6 @@ p {
 a {
 	color: #e0fbfc;
 	text-decoration: none;
-	font-weight: 600;
 	padding: 2px 4px;
 	margin-left: -2px;
 	margin-right: -2px;
@@ -385,7 +398,6 @@ textarea {
 	width: 100%;
 	padding: 10%;
 	text-align: center;
-	
 	background-color: rgb(238, 228, 228);
   
 }
@@ -426,7 +438,7 @@ textarea {
 	font-family: 'Montserrat', 'sans-serif', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 	font-size: 0.70rem;
 	color: white;
-	background-color: var(--quaternary);
+	background-color: rgb(31, 32, 36);
 }
 
 .padding {
