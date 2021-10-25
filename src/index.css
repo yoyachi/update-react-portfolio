@@ -69,6 +69,15 @@ h1 {
 
 h2 {
 	font-size: 2rem;
+	line-height: 1;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-weight: 400;
+	margin: 0;
+	display: block;
+	margin-block-start: 0.67em;
+	margin-inline-end: 00.67em;
+	margin-inline-start: 0px;
+	scroll-margin-inline-end: 0px;
 }
 
 h3 {
@@ -91,8 +100,8 @@ h5 {
 	padding-bottom: 0.5rem;
 	padding-left: 00.75rem;
 	line-height: 1;
-	letter-spacing: 0.1rem;
-	color:rgb(75, 77, 75);
+	letter-spacing: 0.07rem;
+	color:rgb(18, 20, 18);
 	text-transform: uppercase;
 	background-color: rgb(223, 197, 159);
 	display: inline-block;
