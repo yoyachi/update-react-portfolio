@@ -132,7 +132,7 @@ a:hover {
 }
 
 header {
-	background:#f5f5f8;
+	background:#e7ecec;
 	display: flex;
 	justify-content :space-evenly;
 	padding: 1rem;
@@ -409,7 +409,7 @@ textarea {
 	width: 100%;
 	padding: 10%;
 	text-align: center;
-	background-color: rgb(245, 238, 237);
+	background-color: rgb(237, 245, 244);
   
 }
 
@@ -442,7 +442,7 @@ textarea {
 	max-width: 350px;
 	max-height: 200px;
 	justify-content: center;
-	box-shadow: rgb(133, 101, 101) ;
+	box-shadow: rgb(57, 57, 65) ;
 }
 
 .card-link {
