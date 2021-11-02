@@ -208,13 +208,17 @@ ul li {
 }
 
 nav a:hover {
-	background-color: rgba(167, 111, 111, 0.8) ;
+	background-color: rgba(195, 217, 231, 0.8) ;
 	text-decoration: none;
 }
 
 nav li {
 	cursor: pointer;
+	color: white;
+	
 }
+
+
 
 textarea {
 	width: 600px;
@@ -265,7 +269,7 @@ textarea {
 	margin-top: var(--spacing-two);
 	margin-bottom: var(--spacing-two);
   border-radius: 50%;
-  border: 2px solid white;
+  border: 2px solid rgb(201, 204, 212);
   
   
 }
@@ -330,7 +334,7 @@ textarea {
 }
 
 .navActive {
-	color: rgb(22, 23, 27);
+	color: rgb(112, 71, 194);
 }
 
 .text {
