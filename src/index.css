@@ -341,6 +341,10 @@ textarea {
 	
 	color: rgb(116, 111, 111);
 	font-family: roboto;
+	font-size: 16px;
+	font-weight: 200;
+	padding: 10px 15px;
+
 	padding-top: 10%;
 	
 }
@@ -414,7 +418,7 @@ textarea {
 	width: 100%;
 	padding: 10%;
 	text-align: center;
-	background-color: rgba(241, 244, 248, 0.831);
+	background-color: rgba(220, 225, 231, 0.831);
   
 }
 
@@ -426,7 +430,7 @@ textarea {
 
 .card-subtitle {
 	font-size: 1.2rem;
-	color: rgb(162, 157, 15);
+	color: rgba(182, 177, 24, 0.982);
 }
 
 .card-text {
@@ -454,7 +458,7 @@ textarea {
 	font-family: 'Montserrat', 'sans-serif', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 	font-size: 0.70rem;
 	color: white;
-	background-color: rgb(84, 87, 102);
+	background-color: rgb(74, 77, 95);
 }
 
 .padding {
