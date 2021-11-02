@@ -71,7 +71,7 @@ h2 {
 	font-size: 2rem;
 	line-height: 1;
 	font-family: Georgia, 'Times New Roman', Times, serif;
-	font-weight: 400;
+	font-weight: 200;
 	color: white;
 	margin: 0;
 	display: block;
@@ -133,7 +133,7 @@ a:hover {
 }
 
 header {
-	background:#232c72;
+	background:#011235f0;
 	display: flex;
 	justify-content :space-evenly;
 	padding: 1rem;
@@ -414,7 +414,7 @@ textarea {
 	width: 100%;
 	padding: 10%;
 	text-align: center;
-	background-color: rgb(212, 219, 236);
+	background-color: rgba(241, 244, 248, 0.831);
   
 }
 
