@@ -44,7 +44,7 @@ function Portfolio() {
 		{
 			name: 'Budget Tracker',
 			description:
-				'Budget Tracker is an Application that uses a noSQL database and offline persistance for a great user experience for managing their finances and budgeting no matter where they are.',
+				'Budget Tracker is an Application that manages finances and budgeting, using a noSQL database, and offline persistance for a great user experience  to have functionality when not connected to the internet.',
 			image: 'budget-tracker.png',
 			technologies: [
 				'JavaScript',
@@ -97,9 +97,9 @@ function Portfolio() {
 			deployed: 'https://yoyachi.github.io/work-day-scheduler',
 		},
 		{
-			name: 'Project-3',
+			name: 'Flambot Corp',
 			description:
-				'Project 3 is a React Application project for our full stack JavaScrip development boot-camp at the University of Texas. This application is a T-shirt store named Flambot Corp, where you would be able to shop for t-shirts by filtered selection, signup/Login, and checkout using Stripe online payment.',
+				'Flambot Corp is a React Application project for our full stack JavaScrip development boot-camp at the University of Texas. This application is a T-shirt store, to shop by filtered selection, sign-up/login, and checkout using Stripe online payment.',
 			image: 'project-3.png',
 			technologies: [
 				'JavaScript',
