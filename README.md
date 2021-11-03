@@ -1,3 +1,55 @@
+This is my full stack developer portfolio that I created using React.js. It contents:
+
+* A single Header component that appears on multiple pages.
+* A single Navigation component within the header that will be used to conditionally render the different sections of portfolio.
+* A single Project component that will be used multiple times in the Portfolio section.
+* A single Footer component that appears on multiple pages.
+
+## Installation
+
+* Please clone GitHub repository
+* `npm init`
+* Invoke application using `npm install`.
+
+## Usage
+
+In order to start the server you should run `npm start`.  Then it will show application in your browser. 
+
+## Technologies Used
+
+* React.js
+* Express.js
+* Java Script
+* HTML
+* CSS
+* Bootstrap
+
+## Links
+
+### GitHub Repository Link
+
+**https://https://github.com/yoyachi/update-react-portfolio**
+
+### Deployment App
+**https://https://yoyachi.github.io/update-react-portfolio/**
+
+## Screenshot
+
+
+
+## License
+
+**MTI** license
+![Bower](https://img.shields.io/bower/l/MI)
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
