@@ -90,6 +90,14 @@ function Contact() {
 					<button type="submit">Submit</button>
 				</form>
 			</div>
+
+			<div className="text">
+				<h4>Email</h4>
+				<p className="email">
+					julissahash@gmail.com
+				</p>
+			</div>
+
 		</section>
 	);
 }
