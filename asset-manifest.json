@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/update-react-portfolio/static/css/main.9a2e1abd.chunk.css",
+    "main.css": "/update-react-portfolio/static/css/main.8e1f9843.chunk.css",
     "main.js": "/update-react-portfolio/static/js/main.c8db5c18.chunk.js",
     "main.js.map": "/update-react-portfolio/static/js/main.c8db5c18.chunk.js.map",
     "runtime-main.js": "/update-react-portfolio/static/js/runtime-main.2025bab0.js",
@@ -10,7 +10,7 @@
     "static/js/3.0853456f.chunk.js": "/update-react-portfolio/static/js/3.0853456f.chunk.js",
     "static/js/3.0853456f.chunk.js.map": "/update-react-portfolio/static/js/3.0853456f.chunk.js.map",
     "index.html": "/update-react-portfolio/index.html",
-    "static/css/main.9a2e1abd.chunk.css.map": "/update-react-portfolio/static/css/main.9a2e1abd.chunk.css.map",
+    "static/css/main.8e1f9843.chunk.css.map": "/update-react-portfolio/static/css/main.8e1f9843.chunk.css.map",
     "static/js/2.155a889b.chunk.js.LICENSE.txt": "/update-react-portfolio/static/js/2.155a889b.chunk.js.LICENSE.txt",
     "static/media/IMG_1707.c22df3a7.JPG": "/update-react-portfolio/static/media/IMG_1707.c22df3a7.JPG",
     "static/media/austin.194ba6e9.jpg": "/update-react-portfolio/static/media/austin.194ba6e9.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.2025bab0.js",
     "static/js/2.155a889b.chunk.js",
-    "static/css/main.9a2e1abd.chunk.css",
+    "static/css/main.8e1f9843.chunk.css",
     "static/js/main.c8db5c18.chunk.js"
   ]
 }
