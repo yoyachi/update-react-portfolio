@@ -23,7 +23,7 @@ function Portfolio() {
 				'Bcrypt package (to hash passwords)',
 				'Dotenv package (to use environment variables)',
 			],
-			github: 'https://github.com/yoyachi/app-now-playing.git',
+			github: 'https://github.com/yoyachi/now-playing',
             deployed: 'https://nowplayingapp.herokuapp.com/',
 			
 		},
@@ -37,7 +37,7 @@ function Portfolio() {
                 'PureCSS',
 				'JavaScript',
 			],
-			github: 'https://github.com/yoyachi/git-it-right/tree/main/git-it-right',
+			github: 'https://github.com/yoyachi/git-it-right',
 			deployed: 'https://drewvena.github.io/git-it-right/',
 		},
 		
