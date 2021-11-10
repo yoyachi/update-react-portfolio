@@ -1,4 +1,4 @@
-This is my full stack development portfolio that was created using React.js. It contents:
+This is Julissa's full stack development portfolio that was created using React.js. It contents:
 
 * A single Header component that appears on multiple pages.
 * A single Navigation component within the header that will be used to conditionally render the different sections of portfolio.
