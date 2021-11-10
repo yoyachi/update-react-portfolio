@@ -14,6 +14,7 @@ This is Julissa's full stack development portfolio that was created using React.
 ## Usage
 
 In order to start the server you should run `npm start`.  Then it will show application in your browser. 
+Please, to directly run this application click on "Deployment App" below.
 
 ## Technologies Used
 
