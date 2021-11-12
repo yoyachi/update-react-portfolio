@@ -150,7 +150,6 @@ header a {
 button {
 	background: var(--quaternary);
 	border: 0;
-
 	color: #fff;
 	cursor: pointer;
 	font-size: 16px;
