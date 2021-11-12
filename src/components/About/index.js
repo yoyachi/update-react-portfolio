@@ -1,6 +1,5 @@
 import React from 'react'
 import coverImage from "../../assets/cover/IMG_1707.JPG";
-import backgroundImage from "../../assets/cover/austin.jpg";
 function About() {
 
   return (
@@ -16,7 +15,6 @@ function About() {
         <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
         </div>
         <div className="image2">
-        <img src={backgroundImage} className="my-8" style={{ width: "100%" }} alt="bottom-cover" />
         </div>
         
 
