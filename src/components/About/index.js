@@ -12,8 +12,15 @@ function About() {
           <p>Software Developer</p>
           <p>Austin, Texas</p>
         </div>
-
+        <div className="image1">
         <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
+        </div>
+        <div className="image2">
+        <img src={backgroundImage} className="my-8" style={{ width: "100%" }} alt="bottom-cover" />
+        </div>
+        
+
+        
       
       </div>
       <div className="text">
