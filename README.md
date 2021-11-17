@@ -38,12 +38,6 @@ Please, to directly run this application click on "Deployment App" link below.
 ![Screen Shot 2021-11-03 at 8 49 41 AM](https://user-images.githubusercontent.com/69886471/140121258-5c004eae-6f76-43d5-946f-cafb241a7030.png)
 
 
-
-## License
-
-**MTI** license
-![Bower](https://img.shields.io/bower/l/MI)
-
 ![Screen Shot 2021-11-03 at 8 51 09 AM](https://user-images.githubusercontent.com/69886471/140121486-d96faf87-4bee-4569-b468-1ee178d554f4.png)
 
 
@@ -51,6 +45,11 @@ Please, to directly run this application click on "Deployment App" link below.
 
 
 ![Screen Shot 2021-11-03 at 8 52 18 AM](https://user-images.githubusercontent.com/69886471/140121833-f742b5d3-a695-48c5-a5e0-2e84d5db231c.png)
+
+## License
+
+**MTI** license
+![Bower](https://img.shields.io/bower/l/MI)
 
 
 # Getting Started with Create React App
