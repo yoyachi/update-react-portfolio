@@ -1,3 +1,6 @@
+
+## Description
+
 This is Julissa's full stack development portfolio that was created using React.js. It contents:
 
 * A single Header component that appears on multiple pages.
