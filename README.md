@@ -31,7 +31,7 @@ Please, to directly run this application click on "Deployment App" link below.
 
 **https://https://github.com/yoyachi/update-react-portfolio**
 
-### Deployment App
+### Deployment App Link
 **https://yoyachi.github.io/update-react-portfolio/**
 
 ## Screenshot
