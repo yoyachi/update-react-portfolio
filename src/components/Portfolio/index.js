@@ -109,7 +109,7 @@ function Portfolio() {
 				'Web-vitals',
 				'Jest',
 			],
-			github: 'https://github.com/yoyachi/project-3',
+			github: 'https://github.com/yoyachi/flambot-corp',
 			deployed: 'https://flambot-corp.herokuapp.com/',
 		},
 		
