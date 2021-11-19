@@ -32,7 +32,7 @@ Please, to directly run this application click on "Deployment App" link below.
 
 ### GitHub Repository Link
 
-**https://https://github.com/yoyachi/update-react-portfolio**
+**https://github.com/yoyachi/update-react-portfolio**
 
 ### Deployment App Link
 **https://yoyachi.github.io/update-react-portfolio/**
