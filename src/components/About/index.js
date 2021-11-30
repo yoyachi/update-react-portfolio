@@ -12,14 +12,14 @@ function About() {
           <p>Austin, Texas</p>
         </div>
         <div className="image1">
-        <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
+          <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
         </div>
         <div className="image2">
         </div>
-        
 
-        
-      
+
+
+
       </div>
       <div className="text">
         <p>

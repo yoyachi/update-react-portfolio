@@ -1,7 +1,6 @@
 import React from 'react';
 import Project from '../Project';
-//import  { FaGithub }  from 'react-icons/fa';
-//import images from '../..assets/images'
+
 
 
 function Portfolio() {
@@ -83,7 +82,7 @@ function Portfolio() {
 				'jquery',
 				'bootstrap',
 			],
-			github: 'https://github.com/yoyachi/work-day-scheduler',
+			github: 'https://github.com/yoyachi/workday-schedule',
 			deployed: 'https://yoyachi.github.io/work-day-scheduler',
 		},
 

@@ -422,7 +422,10 @@ textarea {
 
 .card-title {
 	font-size: 2rem;
+	font-weight: 300;
 	color: var(--quaternary);
+	border-color: black;
+
 }
 
 .card-subtitle {
@@ -432,8 +435,10 @@ textarea {
 
 .card-text {
 	font-size: 0.75rem;
+	font-weight: 400;
 	height: 8rem;
 	color: rgb(116, 111, 111);
+	border-color: rgb(116, 111, 111);;
 
 }
 
