@@ -28,6 +28,7 @@ main {
 html,
 body {
 	height: 100%;
+	display: block;
 }
 
 body {
@@ -63,7 +64,7 @@ h6 {
 
 h1 {
 	font-size: 2.25rem;
-	color: rgb(47, 50, 65);
+	color: rgb(106, 86, 167);
 }
 
 
@@ -71,7 +72,7 @@ h1 {
 h2 {
 	font-size: 2rem;
 	line-height: 1;
-	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-family: Helvetica,Arial,sans-serif;
 	font-weight: 200;
 	color: white;
 	margin: 0;
