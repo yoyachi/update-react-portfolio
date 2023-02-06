@@ -17,7 +17,7 @@ function About() {
       </div>
       <div className="text">
         <p className='intro'>
-          Julissa is a full stack developer instructed by the University of Texas coding boot camp. This program helped her setting knowledge on newly development skills in JavaScript, CSS, React.js and responsive web design MERN. She is looking forward to join a development company to create and update responsive applications, developing a more effective and dynamic user interaction with innovation, problem solving and visual appeal web design which is one of her biggest passions.
+        Julissa is a full-stack developer instructed by the University of Texas at Austin. This program helped her to improve her development skills in HTML5, CSS3, JavaScript, and responsive web design MERN (MongoDB Express React Node). Her experience with client interaction helped her easily capture user needs for functionality. She is looking forward to joining a development company to create and update responsive applications, developing a more effective and dynamic user interaction with innovation, problem-solving, and visual appeal web design, which is one of her biggest passions.
 
         </p>
       </div>

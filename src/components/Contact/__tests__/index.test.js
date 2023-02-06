@@ -27,3 +27,4 @@ it('renders', () => {
   const { getByTestId } = render(<Contact />)
   expect(getByTestId('button')).toHaveTextContent('Submit')
 })
+
